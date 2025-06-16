@@ -1,6 +1,6 @@
 let btn=document.querySelectorAll(".box");
 let ref=document.querySelector("#ref");
-let ref.style.cssText="display: none;";
+ref.style.cssText="display: none;";
 let gm=document.querySelector(".game");
 let turnO=true;
 let turnX=false;
