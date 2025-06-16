@@ -59,3 +59,11 @@ ref.addEventListener("click",()=>{
     location.reload();
 });
 
+const f2=()=>{
+    let k=0;
+    for(let ok of btn){
+        if(ok.innerText=='X' || ok.innerText=='O'){
+            
+        }
+    }
+}
