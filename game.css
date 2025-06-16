@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: fantasy ;
+    background-color: blueviolet;
+    text-align: center;
+    
+}
+.box{
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 15px;
+    box-shadow: 0rem 1rem 1rem rgba(29, 198, 198, 0.8);
+    border: none;
+    font-size: 10vmin;
+    color: rgb(7, 3, 61);
+}
+.game{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+}
+.container{
+    display: flex;
+   
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+#ref{
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color:  rgb(243, 247, 28);
+    color: rgb(3, 73, 134);
+    font-size: 2.30rem;
+
+
+}
